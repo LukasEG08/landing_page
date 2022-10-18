@@ -1,0 +1,25 @@
+body{
+    background: skyblue;
+}
+
+#primer{
+    font-size: medium;
+    color: bisque;
+}
+
+#title{
+    color: darkgrey;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+#primer1{
+    font-size: xx-large;
+    color: rgb(165, 112, 47);
+}
+
+#title1{
+    color: whitesmoke;
+    font-size: 20px;
+    font-style: bold;
+}
